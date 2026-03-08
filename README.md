@@ -15,7 +15,7 @@ Le dataset utilisé contient des informations sur l'utilisation des cartes de cr
 
 * Balance du compte
 * Montant des achats
-* Avances de cash (cash advance)
+* Avances de cash
 * Limite de crédit
 * Fréquence des achats
 * Paiements effectués
@@ -25,16 +25,14 @@ Ces variables permettent d'analyser le comportement financier des clients.
 
 ---
 
-## Structure du projet
+## Fichiers du projet
 
 ```
-project/
-│
 ├── CC GENERAL.csv
 ├── code.ipynb
 ├── datasetExplination.ipynb
 ├── whyNotDBSCAN.ipynb
-└── presentation.pdf
+└── presentationProjectAI.pdf
 ```
 
 ### Contenu des fichiers
@@ -55,7 +53,7 @@ Explication des variables du dataset et de leur signification.
 **whyNotDBSCAN.ipynb**
 Analyse expliquant pourquoi l’algorithme **DBSCAN** n’a pas été retenu pour ce projet et comparaison avec **K-Means**.
 
-**presentation.pdf**
+**presentationProjectAI.pdf**
 Présentation du projet, de la méthodologie et des résultats obtenus.
 
 ---
