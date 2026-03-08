@@ -37,7 +37,7 @@ Ces variables permettent d'analyser le comportement financier des clients.
 
 ### Contenu des fichiers
 
-```**code.ipynb**``` 
+```code.ipynb``` 
 Notebook principal contenant :
 
 * nettoyage des données
@@ -47,13 +47,13 @@ Notebook principal contenant :
 * visualisation des clusters
 * interprétation des résultats
 
-``` **datasetExplination.ipynb**```   
+```datasetExplination.ipynb```   
 Explication des variables du dataset et de leur signification.
 
-``` **whyNotDBSCAN.ipynb**```   
+```whyNotDBSCAN.ipynb```   
 Analyse expliquant pourquoi l’algorithme **DBSCAN** n’a pas été retenu pour ce projet et comparaison avec **K-Means**.
 
-``` **presentationProjectAI.pdf**```   
+```presentationProjectAI.pdf```   
 Présentation du projet, de la méthodologie et des résultats obtenus.
 
 ---
